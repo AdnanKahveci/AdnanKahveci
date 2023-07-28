@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Adnan Kahveci and I am a 3rd year Computer Engineering student at<br> Bilecik Şeyh Edebali University. My passion for computers and technology has led me to<br> learn various programming languages  and technologies.
+Hello! My name is Adnan Kahveci and I am a Computer Engineering student at<br> Bilecik Şeyh Edebali University, in Turkey. My passion for computers and technology has led me to<br> learn various programming languages  and technologies.
 
 
 ## 🌐 Socials:
