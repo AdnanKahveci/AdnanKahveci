@@ -3,8 +3,8 @@ Hello! My name is Adnan Kahveci and I am a Computer Engineering student at<br> B
 
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/adnan.khvc/)](https://img.shields.io/badge/instagram-%230077B5.svg?logo=linkedin&logoColor=white )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adnan-kahveci-8404b2218/)
+[![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-kahveci-8404b2218/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/14952192/adnankhvc) 
 
 # 💻 Tech Stack:
