@@ -1,7 +1,7 @@
 ### <div align="center">Full-Stack Developer | Data Scientist | Generative Artist</div>  
   
 
-- 🌏I'm based in Istanbul  
+- 🌏I live in Istanbul. 
   
 
 - ✉️ You can contact me at kahveciadnan138@gmail.com  
