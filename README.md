@@ -14,7 +14,12 @@
   
 
 <br/>  
+<!-- <div align="center"> --> 
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=AdnanKahveci&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 
+<!--  </div> --> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -69,22 +74,4 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdnanKahveci&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
