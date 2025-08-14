@@ -183,10 +183,3 @@ const adnanKahveci = {
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100">
-  
-  **Made with ❤️ by Adnan Kahveci**
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100">
-</div>
