@@ -147,13 +147,6 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Katkı Yılanı
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdnanKahveci/AdnanKahveci/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="30" /> Eğlenceli Gerçekler
 
