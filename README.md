@@ -1,66 +1,199 @@
-### <div align="center">Full-Stack Developer | Data Scientist | Generative Artist</div>  
+<h2 align="center">🚀 Full-Stack Developer | Data Scientist | Generative Artist </h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<div align="center">
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://linkedin.com/in/adnan-kahveci-8404b2218)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdnanKahveci)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adnan.khvc)
 
-- 🌏I live in Istanbul. 
-  
+</div>
 
-- ✉️ You can contact me at kahveciadnan138@gmail.com  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AdnanKahveci&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=AdnanKahveci&theme=radical&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanKahveci&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-<br/>  
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdnanKahveci&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdnanKahveci&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdnanKahveci&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Teknoloji Yığını ve Yeteneklerim
 
-
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/AdnanKahveci" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/AdnanKhvc_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/adnan-kahveci-8404b2218" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/adnan.khvc" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/adnankhvc" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+### 💻 Programlama Dilleri
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c#" />
+
+### 🎨 Frontend Geliştirme  
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs" />
+
+### ⚙️ Backend ve Veritabanı
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgresql,firebase,mongodb" />
+
+### 🤖 AI/ML ve Araçlar
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,git,linux,docker" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Öne Çıkan Projelerim
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎶 DICOM-Viewer
+> **DICOM-Viewer** - Python kullanılarak geliştirilen bir DICOM görüntüleyici uygulama (medikal görüntüleme formatı).
+>
+> `Python` `OpenCV` `AI` `MediaPipe`
+>
+> [![Repo](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/AdnanKahveci/DICOM-Viewer)
+
+</td>
+<td width="50%">
+
+### 🎓 Glow Model Training
+> **Generative Flow Model** – Glow modelini kullanarak görüntü verileri üzerinde üretici model eğitimi yapan proje.  
+> Glow, tersinir bir generative flow modelidir ve farklı veri setleriyle çalışabilir. Eğitim ve test süreçleri detaylı olarak dokümante edilmiştir.  
+>
+> `Python` `PyTorch` `Generative Model` `Glow`  
+>
+> [![Repo](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/AdnanKahveci/graduation-project)
+</td>
+
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Offline Messaging API
+> **Offline Messaging API** - Node.js, Express, TypeScript ve MySQL tabanlı, çevrimdışı mesajlaşmaya uygun RESTful API.
+>
+> `Secure Messaging` `Swagger Docs` `User Blocking` 
+>
+> [![Repo](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/AdnanKahveci/offline-messaging-api)
+
+</td>
+<td width="50%">
+
+### 🛡️ NLP-API – Doğal Dil İşleme API & Web Arayüzü
+> **NLP-API – Doğal Dil İşleme API & Web Arayüzü** - Vue.js frontend ve FastAPI backend kullanılarak geliştirilen, Türkçe metinler üzerinde duygu analizi sağlayan modern bir web uygulaması.
+>
+> `Vue.js` `FastAPI` `Transformers` `PyTorch` `Sentiment Analysis`
+>
+> [![Repo](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/AdnanKahveci/nlp-api)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Realtime Markdown Editorr
+> *Realtime Markdown Editorr** - React + TypeScript & Socket.io ile geliştirilen, gerçek zamanlı işbirliği sağlayan bir Markdown editörü.
+> 
+> `Real-Time Collaboration` `GitHub` `Markdown Preview` `Custom Rooms`
+> 
+> [![Repo](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/AdnanKahveci/realtime-markdown-editor)
+
+</td>
+
+<td width="50%">
+
+### 🚀 E-Commerce Microservices  
+> **E-Commerce Microservices ** - React (TS) frontend + Node.js mikroservis backend ile oluşturulmuş ölçeklenebilir e-ticaret altyapısı.
+>
+> `React` `TypeScript` `Docker` `Microservices` `JWT Auth`
+>
+> [![Repo](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/AdnanKahveci/ecommerce-microservices)
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276f2c8c-bcce-42e8-9a48-4db79ce71bac.png" width="30" /> GitHub Analitiği
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdnanKahveci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanKahveci&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanKahveci&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdnanKahveci&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Katkı Yılanı
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdnanKahveci/AdnanKahveci/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="30" /> Eğlenceli Gerçekler
+
+<div align="center">
+
+```javascript
+const adnanKahveci = {
+  pronouns: "he" | "him",
+  specialties: ["Full-Stack Dev", "Data Science", "Generative Art"],
+  tools: ["React", "Node.js", "Python", "TypeScript", "Docker"],
+  currentFocus: "Building scalable web architectures & ML pipelines",
+  funFact: "Tabs > Spaces, ama kodun ruhu önemli, değil mi?"
+};
+
+```
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d4-f13b74e2c0e4.gif" width="400">
+</div>
+
+<div align="center">
   
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> "Kod yazmak sanat, AI ile çalışmak ise geleceği şekillendirmektir"
 
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdnanKahveci&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100">
+  
+  **Made with ❤️ by Adnan Kahveci**
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100">
+</div>
